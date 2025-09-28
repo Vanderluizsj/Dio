@@ -11,7 +11,9 @@ A aplicação simula um sistema básico de gestão de estacionamento, permitindo
 O menu principal oferece as seguintes opções:
 
 ```csharp
+<<<<<<< HEAD
 *1. Cadastrar Veículos
 *2. Listar Veículos
 *3. Remover Veículos
 *0. Sair
+
