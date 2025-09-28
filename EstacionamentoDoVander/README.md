@@ -1,6 +1,6 @@
 # 🚗 Desafio DIO - Sistema de Estacionamento em Console
 
-Este projeto foi desenvolvido como parte do **Desafio de Projeto** da [**Digital Innovation One (DIO)**](https://www.dio.me/), focado na aplicação de conceitos de **POO (Programação Orientada a Objetos)** e desenvolvimento de aplicações **Console em C#**.
+Este projeto foi desenvolvido como parte do **Desafio de Projeto** da [**Digital Innovation One (DIO)**](https://www.dio.me/), focado no desenvolvimento de aplicações **Console em C#**.
 
 ---
 
