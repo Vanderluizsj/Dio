@@ -11,9 +11,8 @@ A aplicação simula um sistema básico de gestão de estacionamento, permitindo
 O menu principal oferece as seguintes opções:
 
 ```csharp
-<<<<<<< HEAD
-*1. Cadastrar Veículos
-*2. Listar Veículos
-*3. Remover Veículos
-*0. Sair
+Console.WriteLine("1. Cadastrar Veículos");
+Console.WriteLine("2. Listar Veículos");
+Console.WriteLine("3. Remover Veículos");
+Console.WriteLine("0. Sair");
 
