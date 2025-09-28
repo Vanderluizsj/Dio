@@ -1,0 +1,13 @@
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\EstacionamentoDoVander.csproj.AssemblyReference.cache
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\EstacionamentoDoVander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\EstacionamentoDoVander.csproj.CoreCompileInputs.cache
+C:\Source\Dio\EstacionamentoDoVander\bin\Debug\net7.0\EstacionamentoDoVander.exe
+C:\Source\Dio\EstacionamentoDoVander\bin\Debug\net7.0\EstacionamentoDoVander.deps.json
+C:\Source\Dio\EstacionamentoDoVander\bin\Debug\net7.0\EstacionamentoDoVander.runtimeconfig.json
+C:\Source\Dio\EstacionamentoDoVander\bin\Debug\net7.0\EstacionamentoDoVander.dll
+C:\Source\Dio\EstacionamentoDoVander\bin\Debug\net7.0\EstacionamentoDoVander.pdb
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\EstacionamentoDoVander.dll
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\refint\EstacionamentoDoVander.dll
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\EstacionamentoDoVander.pdb
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\EstacionamentoDoVander.genruntimeconfig.cache
+C:\Source\Dio\EstacionamentoDoVander\obj\Debug\net7.0\ref\EstacionamentoDoVander.dll

@@ -1,0 +1,103 @@
+################################
+# Arquivo .gitignore para C# / Visual Studio
+################################
+
+# 1. Arquivos de Solução e Projeto
+################################
+# Arquivos de usuário do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de projeto temporários
+*.vssscc
+*.vspscc
+*.tsproj
+*.resharper
+
+# Diretórios e Arquivos de Build/Binários Comuns
+[Dd]ebug/
+[Rr]elease/
+bin/
+obj/
+[Bb]uild/
+*.pdb
+*.dll
+*.exe
+*.log
+*.bak
+*.ncb
+*.orig
+*.sbr
+*.bsc
+*.obj
+*.o
+*.aps
+*.rsuser
+*.vshost.*
+
+# NuGet
+# Pacotes de dependência
+[Pp]ackages/
+# Diretórios de restore do NuGet
+.nuget/
+# Cache de pacotes (se não estiver em um local global padrão)
+*.nupkg
+.nupkgs/
+
+# 2. Configurações Específicas do Visual Studio
+########################################
+.vs/ # Pasta de arquivos ocultos do VS 2017/2019/2022
+BackupFiles/
+ipch/
+*.aps
+*.opensdf
+*.sdf
+*.tlog
+
+# Várias ferramentas
+# Testes unitários (resultados)
+TestResults/
+*.trx
+
+# Ferramentas de Profiler
+*.vsp
+*.vspx
+
+# Code coverage (Cobertura de Código)
+*.coverage
+*.coveragexml
+
+# Publish (Publicação)
+Publish/
+
+# 3. Sistemas Operacionais e Editores
+################################
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+# Excluir a pasta de configurações de usuário local (se não quiser versioná-la)
+.vscode/
+
+# 4. Outros Arquivos
+################################
+# Variáveis de ambiente
+*.env
+
+# Certificados, chaves
+*.pfx
+*.cer
+*.snk
+
+# Arquivos gerados por documentação
+[Dd]ocfx.json
+_site/
+
+# Ignorar o próprio arquivo .gitignore
+# .gitignore
